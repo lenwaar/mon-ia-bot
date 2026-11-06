@@ -70,3 +70,5 @@ Projet développé avec l'aide d'un assistant IA (Claude), que j'ai relu, testé
 
 MIT
 <img width="1131" height="963" alt="image" src="https://github.com/user-attachments/assets/d6bdff09-46de-4116-8982-c95ec7c8c141" />
+<img width="1917" height="941" alt="image" src="https://github.com/user-attachments/assets/a8fd5064-8d46-4ea3-9688-a2f15524aa55" />
+
